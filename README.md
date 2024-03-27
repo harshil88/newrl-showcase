@@ -8,3 +8,6 @@ We worked on the Authentication, Trustscore, Network Managment modules of the ap
 
 https://github.com/harshil88/newrl-showcase/assets/86819569/8d8e373c-8d81-4828-9adb-fe108642d96e
 
+
+Find more details about Newrl on <a>https://newrl.net/</a>
+
